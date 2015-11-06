@@ -1,0 +1,2 @@
+# cc3200_wifi_module
+this   module  is for the  cc3200 wifi module ,which  transit   the  input image data   in  wifi  format  , here  form  the  image data  frame ,setup   three  independent   sockets  to communication  with  the  iOS  module  .this  module  is  comparable  with    the vary   ultrasound element  ,such  as  128  linear  element,128 convex element ,  64 linear element ,64 convex  element . 
