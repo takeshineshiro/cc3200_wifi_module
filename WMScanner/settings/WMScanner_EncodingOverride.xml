@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<userOverrides>
+  <override>
+    <path>D:\Users\Wenbin Wu\Desktop\WLArray_256\WMScanner\MotorControl.c</path>
+    <encoding>System</encoding>
+  </override>
+  <override>
+    <path>D:\Users\Wenbin Wu\Desktop\WLArray_256\WMScanner\SampleControl.c</path>
+    <encoding>System</encoding>
+  </override>
+  <override>
+    <path>D:\Users\Wenbin Wu\Desktop\WLArray_256\WMScanner\SampleControl.h</path>
+    <encoding>System</encoding>
+  </override>
+  <override>
+    <path>D:\Users\Wenbin Wu\Desktop\WLArray_256\WMScanner\WifiConnection.c</path>
+    <encoding>System</encoding>
+  </override>
+</userOverrides>
+
+
